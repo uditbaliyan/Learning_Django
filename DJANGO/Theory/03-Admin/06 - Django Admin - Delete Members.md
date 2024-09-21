@@ -1,0 +1,3 @@
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our [terms of use](https://www.w3schools.com/about/about_copyright.asp), [cookie and privacy policy](https://www.w3schools.com/about/about_privacy.asp).
+
+[Copyright 1999-2024](https://www.w3schools.com/about/about_copyright.asp) by Refsnes Data. All Rights Reserved. [W3Schools is Powered by W3.CSS](https://www.w3schools.com/w3css/default.asp).

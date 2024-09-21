@@ -1,0 +1,6 @@
+[[00 - Django Template Variables]]
+[[01 - Django Template Tags]]
+[[02 - Django if Tag]]
+[[03 - Django for Tag]]
+[[04 - Django comment Tag]]
+[[05 - Django include Tag]]

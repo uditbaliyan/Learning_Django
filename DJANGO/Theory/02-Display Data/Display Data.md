@@ -1,0 +1,6 @@
+[[00 - Django Prepare Template]]
+[[01 - Django Add Link to Details]]
+[[02 - Django Add Master Template]]
+[[03 - Django Add Main Index Page]]
+[[04 - Django 404]]
+[[05 - Django Add Test View]]

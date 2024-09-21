@@ -1,0 +1,5 @@
+[[00 - Django - Add Static Files]]
+[[01 - Django - Install WhiteNoise]]
+[[02 - Django - Collect Static Files]]
+[[03 - Django - Global Static Files]]
+[[04 - Add CSS File to the Project]]
